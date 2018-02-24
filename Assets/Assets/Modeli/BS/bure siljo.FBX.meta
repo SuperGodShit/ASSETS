@@ -1,46 +1,63 @@
 fileFormatVersion: 2
-guid: 3e036a870194eaa48a4b9209760b9521
+guid: 147647b336ff73747989c2ce391e68a5
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
-    100000: prozor005
-    100002: //RootNode
-    100004: zid_konstrukcija_prozor005
-    100006: zid_prozor005
-    100008: zid_tarabe_prozor005
-    100010: zid_ukrasi_prozor005
-    100012: Box1522
-    100014: Box1523
-    100016: prozor
-    100018: Zid_prozor005
-    400000: prozor005
-    400002: //RootNode
-    400004: zid_konstrukcija_prozor005
-    400006: zid_prozor005
-    400008: zid_tarabe_prozor005
-    400010: zid_ukrasi_prozor005
-    400012: Box1522
-    400014: Box1523
-    400016: prozor
-    400018: Zid_prozor005
-    2300000: prozor005
-    2300002: zid_konstrukcija_prozor005
-    2300004: zid_tarabe_prozor005
-    2300006: zid_ukrasi_prozor005
-    2300008: Box1522
-    2300010: Box1523
-    3300000: prozor005
-    3300002: zid_konstrukcija_prozor005
-    3300004: zid_tarabe_prozor005
-    3300006: zid_ukrasi_prozor005
-    3300008: Box1522
-    3300010: Box1523
-    4300000: zid_tarabe_prozor005
-    4300002: zid_konstrukcija_prozor005
-    4300004: zid_ukrasi_prozor005
-    4300006: prozor005
-    4300008: Box1522
-    4300010: Box1523
+    100000: Box1460
+    100002: Box1461
+    100004: Box1462
+    100006: Box1463
+    100008: Box1464
+    100010: Box1465
+    100012: Box1466
+    100014: Box1467
+    100016: //RootNode
+    100018: bure siljo002
+    100020: oko bure009
+    100022: oko bure010
+    400000: Box1460
+    400002: Box1461
+    400004: Box1462
+    400006: Box1463
+    400008: Box1464
+    400010: Box1465
+    400012: Box1466
+    400014: Box1467
+    400016: //RootNode
+    400018: bure siljo002
+    400020: oko bure009
+    400022: oko bure010
+    2300000: Box1460
+    2300002: Box1461
+    2300004: Box1462
+    2300006: Box1463
+    2300008: Box1464
+    2300010: Box1465
+    2300012: Box1466
+    2300014: Box1467
+    2300016: oko bure009
+    2300018: oko bure010
+    3300000: Box1460
+    3300002: Box1461
+    3300004: Box1462
+    3300006: Box1463
+    3300008: Box1464
+    3300010: Box1465
+    3300012: Box1466
+    3300014: Box1467
+    3300016: oko bure009
+    3300018: oko bure010
+    4300000: Box1460
+    4300002: Box1461
+    4300004: oko bure009
+    4300006: oko bure010
+    4300008: Box1462
+    4300010: Box1463
+    4300012: Box1464
+    4300014: Box1465
+    4300016: Box1466
+    4300018: Box1467
+    7400000: Take 001
     9500000: //RootNode
   materials:
     importMaterials: 1

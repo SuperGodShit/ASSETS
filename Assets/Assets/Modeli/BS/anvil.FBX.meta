@@ -1,46 +1,32 @@
 fileFormatVersion: 2
-guid: 3e036a870194eaa48a4b9209760b9521
+guid: 9f0078b2d9f9c2146a7fe983712fbed5
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
-    100000: prozor005
-    100002: //RootNode
-    100004: zid_konstrukcija_prozor005
-    100006: zid_prozor005
-    100008: zid_tarabe_prozor005
-    100010: zid_ukrasi_prozor005
-    100012: Box1522
-    100014: Box1523
-    100016: prozor
-    100018: Zid_prozor005
-    400000: prozor005
-    400002: //RootNode
-    400004: zid_konstrukcija_prozor005
-    400006: zid_prozor005
-    400008: zid_tarabe_prozor005
-    400010: zid_ukrasi_prozor005
-    400012: Box1522
-    400014: Box1523
-    400016: prozor
-    400018: Zid_prozor005
-    2300000: prozor005
-    2300002: zid_konstrukcija_prozor005
-    2300004: zid_tarabe_prozor005
-    2300006: zid_ukrasi_prozor005
-    2300008: Box1522
-    2300010: Box1523
-    3300000: prozor005
-    3300002: zid_konstrukcija_prozor005
-    3300004: zid_tarabe_prozor005
-    3300006: zid_ukrasi_prozor005
-    3300008: Box1522
-    3300010: Box1523
-    4300000: zid_tarabe_prozor005
-    4300002: zid_konstrukcija_prozor005
-    4300004: zid_ukrasi_prozor005
-    4300006: prozor005
-    4300008: Box1522
-    4300010: Box1523
+    100000: //RootNode
+    100002: Box1468
+    100004: Box624
+    100006: cuk golem002
+    100008: Cylinder002
+    100010: Cylinder066
+    400000: //RootNode
+    400002: Box1468
+    400004: Box624
+    400006: cuk golem002
+    400008: Cylinder002
+    400010: Cylinder066
+    2300000: Box1468
+    2300002: Box624
+    2300004: Cylinder002
+    2300006: Cylinder066
+    3300000: Box1468
+    3300002: Box624
+    3300004: Cylinder002
+    3300006: Cylinder066
+    4300000: Box624
+    4300002: Cylinder002
+    4300004: Cylinder066
+    4300006: Box1468
     9500000: //RootNode
   materials:
     importMaterials: 1

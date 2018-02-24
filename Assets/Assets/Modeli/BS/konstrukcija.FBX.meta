@@ -1,46 +1,25 @@
 fileFormatVersion: 2
-guid: 3e036a870194eaa48a4b9209760b9521
+guid: e6adfdd77405d674f824f59465c959ec
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
-    100000: prozor005
-    100002: //RootNode
-    100004: zid_konstrukcija_prozor005
-    100006: zid_prozor005
-    100008: zid_tarabe_prozor005
-    100010: zid_ukrasi_prozor005
-    100012: Box1522
-    100014: Box1523
-    100016: prozor
-    100018: Zid_prozor005
-    400000: prozor005
-    400002: //RootNode
-    400004: zid_konstrukcija_prozor005
-    400006: zid_prozor005
-    400008: zid_tarabe_prozor005
-    400010: zid_ukrasi_prozor005
-    400012: Box1522
-    400014: Box1523
-    400016: prozor
-    400018: Zid_prozor005
-    2300000: prozor005
-    2300002: zid_konstrukcija_prozor005
-    2300004: zid_tarabe_prozor005
-    2300006: zid_ukrasi_prozor005
-    2300008: Box1522
-    2300010: Box1523
-    3300000: prozor005
-    3300002: zid_konstrukcija_prozor005
-    3300004: zid_tarabe_prozor005
-    3300006: zid_ukrasi_prozor005
-    3300008: Box1522
-    3300010: Box1523
-    4300000: zid_tarabe_prozor005
-    4300002: zid_konstrukcija_prozor005
-    4300004: zid_ukrasi_prozor005
-    4300006: prozor005
-    4300008: Box1522
-    4300010: Box1523
+    100000: Box1526
+    100002: Box598
+    100004: Box608
+    100006: //RootNode
+    400000: Box1526
+    400002: Box598
+    400004: Box608
+    400006: //RootNode
+    2300000: Box1526
+    2300002: Box598
+    2300004: Box608
+    3300000: Box1526
+    3300002: Box598
+    3300004: Box608
+    4300000: Box598
+    4300002: Box608
+    4300004: Box1526
     9500000: //RootNode
   materials:
     importMaterials: 1

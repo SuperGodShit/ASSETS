@@ -1,46 +1,54 @@
 fileFormatVersion: 2
-guid: 3e036a870194eaa48a4b9209760b9521
+guid: 2f98606968c26f748bfeee5a2b326457
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
-    100000: prozor005
-    100002: //RootNode
-    100004: zid_konstrukcija_prozor005
-    100006: zid_prozor005
-    100008: zid_tarabe_prozor005
-    100010: zid_ukrasi_prozor005
-    100012: Box1522
-    100014: Box1523
-    100016: prozor
-    100018: Zid_prozor005
-    400000: prozor005
-    400002: //RootNode
-    400004: zid_konstrukcija_prozor005
-    400006: zid_prozor005
-    400008: zid_tarabe_prozor005
-    400010: zid_ukrasi_prozor005
-    400012: Box1522
-    400014: Box1523
-    400016: prozor
-    400018: Zid_prozor005
-    2300000: prozor005
-    2300002: zid_konstrukcija_prozor005
-    2300004: zid_tarabe_prozor005
-    2300006: zid_ukrasi_prozor005
-    2300008: Box1522
-    2300010: Box1523
-    3300000: prozor005
-    3300002: zid_konstrukcija_prozor005
-    3300004: zid_tarabe_prozor005
-    3300006: zid_ukrasi_prozor005
-    3300008: Box1522
-    3300010: Box1523
-    4300000: zid_tarabe_prozor005
-    4300002: zid_konstrukcija_prozor005
-    4300004: zid_ukrasi_prozor005
-    4300006: prozor005
-    4300008: Box1522
-    4300010: Box1523
+    100000: Box634
+    100002: Box635
+    100004: Cylinder003
+    100006: Cylinder005
+    100008: Cylinder006
+    100010: Cylinder007
+    100012: Cylinder008
+    100014: Cylinder067
+    100016: //RootNode
+    100018: grajnder
+    100020: stolicica
+    400000: Box634
+    400002: Box635
+    400004: Cylinder003
+    400006: Cylinder005
+    400008: Cylinder006
+    400010: Cylinder007
+    400012: Cylinder008
+    400014: Cylinder067
+    400016: grajnder
+    400018: //RootNode
+    400020: stolicica
+    2300000: Box634
+    2300002: Box635
+    2300004: Cylinder003
+    2300006: Cylinder005
+    2300008: Cylinder006
+    2300010: Cylinder007
+    2300012: Cylinder008
+    2300014: Cylinder067
+    3300000: Box634
+    3300002: Box635
+    3300004: Cylinder003
+    3300006: Cylinder005
+    3300008: Cylinder006
+    3300010: Cylinder007
+    3300012: Cylinder008
+    3300014: Cylinder067
+    4300000: Box634
+    4300002: Cylinder006
+    4300004: Cylinder005
+    4300006: Cylinder003
+    4300008: Box635
+    4300010: Cylinder067
+    4300012: Cylinder007
+    4300014: Cylinder008
     9500000: //RootNode
   materials:
     importMaterials: 1
